@@ -1,9 +1,9 @@
 package client
 
 import (
-	"auth/model"
 	"encoding/json"
 	"fmt"
+	"github.com/auto-check/common-module/model"
 	log "github.com/sirupsen/logrus"
 	"io"
 	"net/http"
